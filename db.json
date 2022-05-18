@@ -134,6 +134,96 @@
           "descripcion":"Arroz 170 gramos de alta calidad",
           "imagen":"https:\/\/res.cloudinary.com\/walmart-labs\/image\/upload\/w_960,dpr_auto,f_auto,q_auto:best\/gr\/images\/product-images\/img_large\/00750107130145L.jpg",
           "stock":"34"
-       }
+       },
+        {
+         "id":"185",
+         "nombre":"Jugo de naranja",
+         "categoria":"Jugos",
+         "precio":"25",
+         "descripcion":"Jugo de naranja 100 mililitros de alta calidad",
+         "imagen":"https:\/\/res.cloudinary.com\/walmart-labs\/image\/upload\/w_960,dpr_auto,f_auto,q_auto:best\/gr\/images\/product-images\/img_large\/00750105535974L.jpg",
+         "stock":"20"
+      },
+      {
+         "id":"186",
+         "nombre":"Jugo de limon",
+         "categoria":"Jugos",
+         "precio":"20",
+         "descripcion":"Jugo de limon 100 mililitros de alta calidad",
+         "imagen":"https:\/\/s.cornershopapp.com\/product-images\/119977.jpg",
+         "stock":"80"
+      },
+      {
+         "id":"187",
+         "nombre":"Jugo de manzana",
+         "categoria":"Jugos",
+         "precio":"22",
+         "descripcion":"Jugo de manzana 100 mililitros de alta calidad",
+         "imagen":"https:\/\/www.chedraui.com.mx\/medias\/32239052147-00-CH1200Wx1200H?context=bWFzdGVyfHJvb3R8Njg5NDN8aW1hZ2UvanBlZ3xoODYvaDg0LzExMDgyNjgzMjg1NTM0LmpwZ3w4Yjg1NGQ2OTFlMDFlODk1YzhiNGM1NjUyMTViNzZiZjk3YzdjN2ExNTRiZGViMmIzYzVlMWUzYjA5NDZlMzkz",
+         "stock":"59"
+      },
+      {
+         "id":"188",
+         "nombre":"Jugo de uva",
+         "categoria":"Jugos",
+         "precio":"24",
+         "descripcion":"Jugo de uva 100 mililitros de alta calidad",
+         "imagen":"https:\/\/www.chedraui.com.mx\/medias\/7501055337446-00-CH1200Wx1200H?context=bWFzdGVyfHJvb3R8MTA2NDYwfGltYWdlL2pwZWd8aDFkL2hmNS8xMDE1MDcyNzcxMjc5OC5qcGd8MDUzYjU4MTRmYzQ1OTg1YzM0N2NjNzg0OGNiZDU5MDQ3YjRiNTE2N2M2OTA4ZTYwNDNkMjBiMWVmNDFlZTZkMw",
+         "stock":"28"
+      },
+      {
+         "id":"189",
+         "nombre":"Jugo de pi\u00f1a",
+         "categoria":"Jugos",
+         "precio":"21",
+         "descripcion":"Jugo de pi\u00f1a 100 mililitros de alta calidad",
+         "imagen":"https:\/\/www.chedraui.com.mx\/medias\/7501055331680-00-CH1200Wx1200H?context=bWFzdGVyfHJvb3R8Nzc3Njd8aW1hZ2UvanBlZ3xoZjkvaDVhLzExMDc1MjU3MTA2NDYyLmpwZ3xmYTQ1N2E1YmQ3N2QxYzk4NjlhZTlkN2Y1YzQ5ZDI1OGY2ODdjYTRhM2RmZTFmMmJjNzhjZGU2MGI0YTBlYTU0",
+         "stock":"39"
+      },
+      {
+         "id":"190",
+         "nombre":"Lechuga",
+         "categoria":"Verduras",
+         "precio":"30",
+         "descripcion":"Lechuga 300 gramos de alta calidad",
+         "imagen":"https:\/\/www.smartnfinal.com.mx\/wp-content\/uploads\/2017\/09\/propiedades-de-la-lechuga.jpg",
+         "stock":"72"
+      },
+      {
+         "id":"191",
+         "nombre":"Zanahoria",
+         "categoria":"Verduras",
+         "precio":"35",
+         "descripcion":"Zanahoria 250 gramos de alta calidad",
+         "imagen":"https:\/\/cdn.shopify.com\/s\/files\/1\/0246\/3147\/6308\/products\/zanahoria_1080x.jpg?v=1556947271",
+         "stock":"19"
+      },
+      {
+         "id":"192",
+         "nombre":"Cebolla",
+         "categoria":"Verduras",
+         "precio":"33",
+         "descripcion":"Cebolla 270 gramos de alta calidad",
+         "imagen":"https:\/\/www.chedraui.com.mx\/medias\/2502908-00-CH1200Wx1200H?context=bWFzdGVyfHJvb3R8MTEyNTM0fGltYWdlL2pwZWd8aDNlL2gyYy8xMDExNTkyMTA1MTY3OC5qcGd8YmY3NmFmYzEzYWJmOWQ3ODAwNDc0YzBmMTEyNzhhOTQ5ODFlOTViMTE0MGZmMjAwYTNkNjc1OGNkYTI4OWMyMg",
+         "stock":"64"
+      },
+      {
+         "id":"193",
+         "nombre":"Tomate",
+         "categoria":"Verduras",
+         "precio":"34",
+         "descripcion":"Tomate 290 gramos de alta calidad",
+         "imagen":"https:\/\/www.quironsalud.es\/idcsalud-client\/cm\/images?locale=es_ES&idMmedia=2299323",
+         "stock":"46"
+      },
+      {
+         "id":"194",
+         "nombre":"Calabaza",
+         "categoria":"Verduras",
+         "precio":"31",
+         "descripcion":"Calabaza 280 gramos de alta calidad",
+         "imagen":"https:\/\/www.gourmet4life.com\/image0428\/20\/2058556e56bff3c5b3f83af1069e3197.jpg",
+         "stock":"37"
+      }
     ]
  }
