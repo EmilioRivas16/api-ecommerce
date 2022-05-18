@@ -8,10 +8,10 @@ class DB{
     private $charset;
 
     public function __construct(){
-        $this->host     = 'localhost';
-        $this->db       = 'abarrotes';
-        $this->user     = 'root';
-        $this->password = '';
+        $this->host     = 'sql105.epizy.com';
+        $this->db       = 'epiz_31674001_bd_abarrotes';
+        $this->user     = 'epiz_31674001';
+        $this->password = 'mFv7rdYndplQ2W';
         $this->charset  = 'utf8mb4';
     }
 
