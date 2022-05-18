@@ -31,6 +31,6 @@
 <body>
         <a href="../formulario.php">Ir al formulario</a>
         <br><br><br><br><br>
-        <a href="../index.php">Reintentar inicio de sesión</a>
+        <a href="../index.html">Reintentar inicio de sesión</a>
 </body>
 </html>
