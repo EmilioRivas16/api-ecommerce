@@ -28,6 +28,6 @@
 </head>
 <br><br><br><br><br>
 <body>
-        <a href="../index.php">Regresar al index</a>
+        <a href="../index.html">Regresar al index</a>
 </body>
 </html>
