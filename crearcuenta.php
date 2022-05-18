@@ -34,7 +34,7 @@
             </div>
             <br><br>
             <div>
-                <a href="index.php" class="btn btn-primary">Ir al login</a>
+                <a href="index.html" class="btn btn-primary">Ir al login</a>
             </div>
         </form>
     </div>
